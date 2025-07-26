@@ -1,35 +1,21 @@
-# 👋 ¡Bienvenido a TribuQA!
+# 👋 ¡Bienvenido a **TribuQA**!
 
-Somos una empresa dedicada a la formación y capacitación en IT, con foco en **Testing de Software**.
+**TribuQA** es una startup que combina **formación técnica, consultoría** y el uso de **IA** para acelerar el aprendizaje y la implementación de soluciones en testing automatizado.
 
----
-
-## 🌟 ¿Qué ofrecemos?
-- **Cursos y talleres** de testing manual y automatizado
-- **Recursos gratuitos y ejercicios prácticos**
-- **Mentorías personalizadas**
-- **Comunidad de aprendizaje**
+🚀 Queremos que iniciarse en el mundo del QA no sea lento ni complejo.  
+Por eso implementamos tecnologías punteras y demandas en el mercado IT, y aprovechamos el poder de la **Inteligencia Artificial (ChatGPT, Copilot, etc.)** para ir más rápido, aprender mejor y automatizar más.
 
 ---
 
-## 🚀 Próximos lanzamientos
+## 📚 Curso actual
 
-- Curso de Testing Automatizado con Selenium
-- Taller de QA para principiantes
-- Workshops en vivo
+### 🧪 **Automatización de APIs con Karate DSL + ChatGPT**
 
----
+> Aprendé a automatizar pruebas de APIs usando Karate DSL con la asistencia de IA paso a paso.
 
-## 📫 ¿Quieres saber más?
-Escríbenos a [contacto@tribuqa.com](mailto:contacto@tribuqa.com)  
-Síguenos en [LinkedIn](https://www.linkedin.com/in/tribuqa) | [Instagram](https://www.instagram.com/tribuqa)
+✅ Karate DSL + Testing de APIs  
+✅ Prompts listos para usar  
+✅ URLs con historial de ChatGPT  
+✅ Casos de prueba aplicados
 
----
-
-## 👀 Explora nuestros repositorios destacados
-
-- *(¡Próximamente!)*
-
----
-
-> “La calidad del software no es negociable. ¡Aprende con nosotros y lleva tu carrera al siguiente nivel!”
+🎓 [👉 Empezá a ser un crack ahora](https://www.udemy.com/course/tu-curso/)
