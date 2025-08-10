@@ -1,11 +1,16 @@
 # Recursos de TribuQA
 
-Aquí vas a encontrar material gratuito, enlaces útiles y recursos de apoyo para estudiantes y entusiastas del testing de software.
+Aquí vas a encontrar material gratuito, enlaces útiles y recursos de apoyo utilizados en los cursos online y presenciales.
 
-## 📚 Recursos iniciales
+---
 
-- [Glosario de Testing (PDF)](https://www.isqi.org/media/docs/Glossary-Testing-ISTQB.pdf)
-- [Curso gratuito de Testing en español (YouTube)](https://www.youtube.com/results?search_query=testing+software+espa%C3%B1ol)
-- [Plantilla de reporte de bugs](../plantillas/bug_report.md)
+## 💡 Prompts utilizados en el curso de Automatización API con Karate DSL y ChatGPT
 
-¿Tenés recursos para compartir? ¡Abrí un issue o sugerencia!
+En el directorio [`prompts-auto-api-karate-dsl`](./prompts-auto-api-karate-dsl/) encontrarás los prompts reales usados en el curso, para reproducir, aprender o mejorar las prácticas de automatización:
+
+- [p01-chatgpt](./prompts-auto-api-karate-dsl/p01-prompts.md): Historial de prompts para la configuración de los recursos a usar en el curso.
+- [p02-chatgpt](./prompts-auto-api-karate-dsl/p02-prompts.md): Historial de prompts para el desarrollo de las features y customización.
+
+**Autor:** [TribuQA](https://github.com/TribuQA)  
+**Licencia:** MIT  
+**Última actualización:** 2025-08
