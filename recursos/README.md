@@ -8,8 +8,8 @@ Aquí vas a encontrar material gratuito, enlaces útiles y recursos de apoyo uti
 
 En el directorio [`prompts-auto-api-karate-dsl`](./prompts-auto-api-karate-dsl/) encontrarás los prompts reales usados en el curso, para reproducir, aprender o mejorar las prácticas de automatización:
 
-- [p01-chatgpt](../prompts-auto-api-karate-dsl/p01-prompts.md): Historial de prompts para la configuración de los recursos a usar en el curso.
-- [p02-chatgpt](./prompts-auto-api-karate-dsl/p02-prompts.md): Historial de prompts para el desarrollo de las features y customización.
+- [p01-chatgpt](./prompts-auto-api-karate-dsl/p01-chatgpt.md): Historial de prompts para la configuración de los recursos a usar en el curso.
+- [p02-chatgpt](./prompts-auto-api-karate-dsl/p02-chatgpt.md): Historial de prompts para el desarrollo de las features y customización.
 
 **Autor:** [TribuQA](https://github.com/TribuQA)  
 **Licencia:** MIT  
