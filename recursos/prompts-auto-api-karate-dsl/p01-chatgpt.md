@@ -39,13 +39,3 @@ Consulta para obtener los pasos de instalación de IntelliJ IDEA, Git y Postman 
 ```prompt
 Ahora, ¿Como instalo ide intelliJ, git y postman?
 ```
-
----
-
-## ¿Cómo agregar nuevos prompts?
-
-1. Escribe un título descriptivo.
-2. Agrega (opcional) una breve explicación del contexto o para qué lo usaste.
-3. Coloca el prompt entre bloques de código usando la etiqueta prompt.
-
----
