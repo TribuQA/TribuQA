@@ -1,6 +1,6 @@
 # 👋 ¡Bienvenido a **TribuQA**!
 
-**TribuQA** es una startup que combina **formación técnica, consultoría** y el uso de **IA** para acelerar el aprendizaje y la implementación de soluciones en testing automatizado.
+**TribuQA** somos especialistas en QA Automation que combina **formación técnica, consultoría** y el uso de **IA** para acelerar el aprendizaje y la implementación de soluciones en testing automatizado.
 
 🚀 Queremos que iniciarse en el mundo del QA no sea lento ni complejo.  
 Por eso implementamos tecnologías punteras y demandas en el mercado IT, y aprovechamos el poder de la **Inteligencia Artificial (ChatGPT, Copilot, etc.)** para ir más rápido, aprender mejor y automatizar más.
