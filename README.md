@@ -18,4 +18,4 @@ Por eso implementamos tecnologías punteras y demandas en el mercado IT, y aprov
 ✅ URLs con historial de ChatGPT  
 ✅ Casos de prueba aplicados
 
-🎓 [👉 Empezá a ser un crack ahora](https://www.udemy.com/course/automatizacion-de-apis-con-karate-dsl-y-chatgpt-portafolio/?referralCode=B0754EC723032EFD2EE5)
+🎓 [👉 Empezá a ser un crack ahora](https://www.udemy.com/course/automatizacion-de-apis-con-karate-dsl-y-chatgpt-portafolio/?couponCode=D5250814759F8D3C4CCE)
