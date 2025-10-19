@@ -19,6 +19,8 @@ Por eso aplicamos **tecnologías punteras** y **herramientas de Inteligencia Art
 <td align="center" width="300" valign="top">
   
 ### 🥋 **Automatización de APIs con Karate DSL + ChatGPT**
+> **💰 Curso Pago + Cupón de descuento**
+
 Aprendé la **automatización de pruebas de APIs REST** con **Karate DSL**, una herramienta potente y moderna para **QA Automation**.  
 Además automatizarás tus escenarios con la asistencia de **ChatGPT**.  
 
@@ -26,14 +28,12 @@ Además automatizarás tus escenarios con la asistencia de **ChatGPT**.
 <img src="https://img.shields.io/badge/Ver%20en%20Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white" />
 </a>
 
-<br/>
-<img src="https://img.shields.io/badge/Pago%20%2B%20Cupón%20de%20descuento-EC5252?style=flat-square" />
-
 </td>
 
 <td align="center" width="300" valign="top">
   
 ### <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="24" height="24"/> **Git para QA Automation: comandos básicos y casos prácticos**
+> **🎁 Curso GRATIS**
 
 Practicarás comandos esenciales como *clone, branch, commit, pull y push*, simulando tareas reales hasta un **pull request en GitHub**.  
 Resolvé conflictos y flujos de trabajo con una visión completa para potenciar tu rol como **QA Automation profesional**.
@@ -42,14 +42,12 @@ Resolvé conflictos y flujos de trabajo con una visión completa para potenciar 
 <img src="https://img.shields.io/badge/Ver%20en%20Udemy-2ECC71?style=for-the-badge&logo=udemy&logoColor=white" />
 </a>
 
-<br/>
-<img src="https://img.shields.io/badge/Gratis-2ECC71?style=flat-square" />
-
 </td>
 
 <td align="center" width="300" valign="top">
   
 ### <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" alt="Swagger UI" width="24" height="24"/> **API Testing Manual con Swagger UI y ChatGPT**
+> **🎁 Curso GRATIS**
 
 Curso pensado para **testers manuales y estudiantes** que quieran iniciarse en el **API Testing Manual sin programar**.  
 Aprendé qué es una **API REST**, cómo usar **Swagger UI** para probar endpoints reales y diseñá **casos de prueba con ayuda de ChatGPT**.  
@@ -57,9 +55,6 @@ Aprendé qué es una **API REST**, cómo usar **Swagger UI** para probar endpoin
 <a href="https://www.udemy.com/course/api-testing-manual-swagger-chatgpt/" target="_blank">
 <img src="https://img.shields.io/badge/Ver%20en%20Udemy-9B59B6?style=for-the-badge&logo=udemy&logoColor=white" />
 </a>
-
-<br/>
-<img src="https://img.shields.io/badge/Gratis-9B59B6?style=flat-square" />
 
 </td>
 
