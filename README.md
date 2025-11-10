@@ -24,7 +24,7 @@ Por eso aplicamos **tecnologías punteras** y **herramientas de Inteligencia Art
 Aprendé la **automatización de pruebas de APIs REST** con **Karate DSL**, una herramienta potente y moderna para **QA Automation**.  
 Además automatizarás tus escenarios con la asistencia de **ChatGPT**.  
 
-<a href="https://www.udemy.com/course/automatizacion-de-apis-con-karate-dsl-y-chatgpt-portafolio/?couponCode=D5250814759F8D3C4CCE" target="_blank">
+<a href="https://www.udemy.com/course/automatizacion-de-apis-con-karate-dsl-y-chatgpt-portafolio/?couponCode=2971405621D55E45BDDB" target="_blank">
 <img src="https://img.shields.io/badge/Ver%20en%20Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white" />
 </a>
 
