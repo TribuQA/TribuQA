@@ -1,5 +1,7 @@
 # 👋 ¡Bienvenido a **TribuQA**!
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=TribuQA.TribuQA&left_color=0F2027&right_color=007ACC&left_text=🌍%20Visitas%20a%20TribuQA)
+
 **TribuQA** es una startup que combina **formación técnica, consultoría** y el uso de **IA** para acelerar el aprendizaje y la implementación de soluciones en testing automatizado.
 
 🚀 Queremos que iniciarse en el mundo del QA no sea lento ni complejo.  
