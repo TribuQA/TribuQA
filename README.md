@@ -58,6 +58,20 @@ Aprendé qué es una **API REST**, cómo usar **Swagger UI** para probar endpoin
 
 </td>
 
+<td align="center" width="300" valign="top">
+  
+### <img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" alt="GitHub Copilot" width="24" height="24"/> **Automatización de APIs con Karate DSL y Copilot | Básico**
+> **🎁 Curso GRATIS**
+
+Iniciate en la **automatización de APIs REST** con **Karate DSL**, aprendiendo desde cero con un enfoque práctico.  
+Y potenciá tu aprendizaje usando **GitHub Copilot** como asistente para generar código, acelerar escenarios y entender mejores prácticas en QA Automation.  
+
+<a href="https://www.udemy.com/course/automatizacion-de-apis-con-karate-dsl-github-copilot/" target="_blank">
+<img src="https://img.shields.io/badge/Ver%20en%20Udemy-2ECC71?style=for-the-badge&logo=udemy&logoColor=white" />
+</a>
+
+</td>
+
 </tr>
 </table>
 
