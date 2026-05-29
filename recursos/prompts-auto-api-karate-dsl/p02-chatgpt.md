@@ -14,10 +14,6 @@ Solicita ejemplos de automatización usando Karate DSL + Java, para el endpoint 
 ```prompt
 Actúa como un experto en automatización de pruebas con karate dsl y java.
 
-La notebook que uso tiene como sistema operativo Windows 10 de 64 bits.
-
-¿Cómo instalo java versión 17 (archivo comprimido) del distribuidor oracle y luego como lo agrego en las variables de entorno? ¿Quiero que el path de java sea C:\recursos?
-
 El contrato indica lo siguiente:
 	- La base url es: https://petstore3.swagger.io/api/v3
 	- El metodo POST tiene un path: /pet
